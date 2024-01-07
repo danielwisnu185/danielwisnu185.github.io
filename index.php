@@ -61,7 +61,7 @@ include "koneksi.php";
             <li class="nav-item">
               <a class="nav-link" href="#aboutme">About Me</a>
             </li><li class="nav-item">
-              <a class="nav-link" href="#aboutme">Login</a>
+              <a class="nav-link" href="login.php">Login</a>
             </li>
       
             <button id="dark">Dark</button>
